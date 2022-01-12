@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/style.style</file>
+        <file>images/cbox_checked.png</file>
+        <file>images/cbox_empty.png</file>
+        <file>images/iconDownSmall.png</file>
+        <file>images/iconUpSmall.png</file>
+        <file>images/iconSettings.png</file>
+        <file>images/iconStart.png</file>
+        <file>images/iconStop.png</file>
+        <file>images/rbtn_checked.png</file>
+        <file>images/rbtn_empty.png</file>
+        <file>images/iconDownSmallGray.png</file>
+        <file>images/iconUpSmallGray.png</file>
+        <file>images/cbox_checked_dis.png</file>
+        <file>images/cbox_empty_dis.png</file>
+    </qresource>
+</RCC>
